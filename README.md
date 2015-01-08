@@ -6,3 +6,5 @@ This is a NetBeans project and after compile you must use like this :
 * After that enter a word to check :)
 
 enjoy :+1: 
+
+![Screenshot](http://i57.tinypic.com/15qemhv.jpg)
